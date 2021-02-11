@@ -1,0 +1,15 @@
+Catalog.No.	Product.Name	Class	Targets	drugIDforPlating	MedianIC50	DeliveredPlateID	DeliveredPlateWell	Test3StocksPlatePosition
+S1028	Lapatinib (GW-572016) Ditosylate	kinase	HER2,EGFR	d13	10	Z204925	B_1	A_1
+S1018	Dovitinib (TKI-258, CHIR-258)	kinase	FGFR,FLT3,c-Kit,VEGFR,PDGFR	d14	5	Z204925	A_1	B_1
+S1119	Cabozantinib (XL184, BMS-907351)	kinase	FLT3,Tie-2,c-Kit,c-Met,VEGFR,Axl	d15	7	Z204925	G_1	C_1
+S1075	SB216763	kinase	GSK-3	d16	34.3	Z204925	D_1	D_1
+S2703	GSK1838705A	kinase	IGF-1R,ALK	d17	1	Z204925	B_2	E_1
+S1143	AG-490 (Tyrphostin B42)	kinase	JAK,EGFR	d18	100	Z204925	H_1	F_1
+S7399	FLI-06	GPCR	Notch	d19	2300	Z204925	D_2	G_1
+S1630	Allopurinol	GPCR	OX Receptor	d20	7800	Z204925	A_2	H_1
+S1076	SB203580	kinase	p38 MAPK	d21	400	Z204925	E_1	A_2
+S1038	PI-103	kinase	PI3K,Autophagy,DNA-PK,mTOR	d23	16	Z204925	C_1	B_2
+S1111	Foretinib (GSK1363089)	kinase	VEGFR,c-Met	d24	0.7	Z204925	F_1	C_2
+S1021	Dasatinib	kinase	Bcr-Abl,c-Kit,Src	d2	1	Z188653	B_1	D_2
+S1068	Crizotinib (PF-02341066)	kinase	c-Met,ALK	d7	24	Z188653	H_1	E_2
+S1039	Rapamycin (Sirolimus)	kinase	Autophagy,mTOR	d5	1	Z188653	F_1	F_2

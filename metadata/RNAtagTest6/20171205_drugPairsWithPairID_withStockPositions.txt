@@ -1,0 +1,26 @@
+stockWellID	pairID	drug1	drug2	drug1deliveredWell	drug2deliveredWell
+A_1	pair_1	PP242	Selumetinib (AZD6244)	B_5	A_1
+B_1	pair_2	GDC-0879	Afatinib (BIBW2992)	D_2	B_1
+C_1	pair_3	BX-795	Bosutinib (SKI-606)	C_3	C_1
+D_1	pair_4	Everolimus (RAD001)	PD184352 (CI-1040)	G_2	D_1
+E_1	pair_5	Rigosertib (ON-01910)	Ridaforolimus (Deforolimus, MK-8669)	E_3	E_1
+F_1	pair_6	Genistein	Sorafenib Tosylate	D_3	G_1
+G_1	pair_7	GNF-2	NVP-AEW541	G_6	F_1
+H_1	pair_8	CP-724714	Temsirolimus (CCI-779, NSC 683864)	A_3	H_1
+A_2	pair_9	Honokiol	AC480 (BMS-599626)	C_5	A_2
+B_2	pair_10	JNJ-7706621	SB202190 (FHPI)	B_3	B_2
+C_2	pair_11	PF-00562271	Racecadotril 	H_5	NA
+D_2	pair_12	VX-745	GSK1904529A	F_3	C_2
+E_2	pair_13	Ibrutinib (PCI-32765)	BI 2536	A_6	E_2
+F_2	pair_14	CUDC-907	GSK690693	D_6	F_2
+G_2	pair_15	PHT-427	SNS-032 (BMS-387032)	A_4	H_2
+H_2	pair_16	A-769662	SP600125	C_6	G_3
+A_3	pair_17	Mubritinib (TAK 165)	AT7867	A_5	B_4
+B_3	pair_18	ID-8	Ponatinib (AP24534)	A_7	H_3
+C_3	pair_19	ZCL278	H 89 2HCl	H_6	C_4
+D_3	pair_20	AZ 960	TWS119	H_4	D_4
+E_3	pair_21	GDC-0980 (RG7422)	RAF265 (CHIR-265)	B_6	E_4
+F_3	pair_22	NSC 23766	PF-4708671	B_7	F_4
+G_3	pair_23	Phenformin HCl	NVP-BHG712	F_5	G_4
+H_3	pair_24	Indirubin	Tyrphostin AG 879	D_5	E_6
+A_4	pair_25	A-674563	BI-D1870	G_5	F_6

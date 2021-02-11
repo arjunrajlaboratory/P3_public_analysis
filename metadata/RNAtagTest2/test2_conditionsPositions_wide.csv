@@ -1,0 +1,9 @@
+row,1,2,3,4,5,6,7,8,9,10,11,12
+A,d12-Hi,d5-Lo,d6-Lo,HeLaDMSO,d2-Hi,d9-Hi,controlDMSO,controlPBS,d11-Lo,d2-Lo,controlPBS,d12-Hi
+B,d10-Lo,d4-Hi,d4-Hi,HeLaDMSO,d9-Hi,d7-Lo,controlPBS,d9-Lo,d4-Lo,d6-Lo,d10-Hi,d11-Hi
+C,d6-Hi,d8-Lo,controlPBS,HeLaPBS,controlDMSO,d6-Lo,controlDMSO,d12-Lo,d9-Lo,d5-Hi,d3-Lo,d6-Hi
+D,d10-Lo,controlDMSO,d2-Hi,HeLaPBS,d7-Lo,d11-Hi,d3-Hi,d10-Hi,d11-Lo,d10-Lo,controlPBS,d3-Lo
+E,d12-Lo,d10-Hi,d1-Hi,controlDMSO,d3-Hi,d9-Hi,controlDMSO,HeLaDMSO,d5-Hi,controlDMSO,controlDMSO,d11-Hi
+F,d8-Hi,d3-Lo,d1-Hi,d2-Lo,d2-Lo,d11-Lo,d12-Hi,HeLaDMSO,d8-Hi,d8-Lo,d4-Hi,controlPBS
+G,d1-Lo,d4-Lo,d2-Hi,d1-Hi,d7-Lo,d12-Lo,d7-Hi,HeLaPBS,d5-Lo,d7-Hi,d7-Hi,d4-Lo
+H,d8-Hi,d3-Hi,d6-Hi,d5-Lo,d1-Lo,d5-Hi,d9-Lo,HeLaPBS,d1-Lo,controlPBS,d8-Lo,controlPBS

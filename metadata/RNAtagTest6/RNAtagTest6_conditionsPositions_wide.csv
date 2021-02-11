@@ -1,0 +1,9 @@
+row,1,2,3,4,5,6,7,8,9,10,11,12
+A,pair_1,DMSOonly-control,pair_11,pair_6,pair_11,pair_15,pair_12,DMSOonly-control,pair_4,DMSOonly-control,pair_7,pair_16
+B,pair_8,pair_18,pair_24,pair_2,pair_5,pair_14,pair_8,pair_10,pair_20,DMSOonly-control,DMSOonly-control,pair_24
+C,DMSOonly-control,DMSOonly-control,pair_22,pair_13,pair_19,pair_14,pair_4,DMSOonly-control,DMSOonly-control,pair_25,pair_11,DMSOonly-control
+D,DMSOonly-control,pair_20,pair_6,pair_7,pair_22,pair_1,pair_13,pair_4,pair_18,pair_25,pair_16,pair_15
+E,pair_21,pair_19,pair_3,DMSOonly-control,pair_12,pair_10,pair_6,pair_17,pair_20,pair_12,pair_23,pair_25
+F,pair_3,pair_5,pair_9,pair_7,pair_10,DMSOonly-control,DMSOonly-control,pair_2,pair_13,pair_14,pair_2,DMSOonly-control
+G,pair_5,pair_24,pair_18,pair_21,pair_15,pair_16,pair_9,pair_17,DMSOonly-control,pair_3,DMSOonly-control,pair_8
+H,pair_19,pair_21,pair_22,DMSOonly-control,DMSOonly-control,DMSOonly-control,pair_9,DMSOonly-control,pair_23,pair_23,pair_1,pair_17

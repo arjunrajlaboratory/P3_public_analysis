@@ -1,0 +1,9 @@
+row,1,2,3,4,5,6,7,8,9,10,11,12
+A,DMSOonly-control,B3,DMSOonly-control,DMSOonly-control,B3,DMSOonly-control,F3,C3,A1,A1,B1,DMSOonly-control
+B,D1,G2,DMSOonly-control,C1,B1,H1,D2,DMSOonly-control,E3,D1,E2,H3
+C,DMSOonly-control,C2,A4,D3,G1,E1,F3,D3,H3,DMSOonly-control,A2,DMSOonly-control
+D,DMSOonly-control,H1,DMSOonly-control,DMSOonly-control,F1,DMSOonly-control,DMSOonly-control,H3,F2,G3,A3,DMSOonly-control
+E,B1,C1,DMSOonly-control,H2,E3,F2,DMSOonly-control,C1,C3,E2,B2,G2
+F,H2,A4,H2,DMSOonly-control,B2,D2,C3,D1,A4,E3,F1,G2
+G,B3,E1,F1,A3,E2,A1,G1,G1,DMSOonly-control,G3,H1,DMSOonly-control
+H,C2,A2,F3,D2,F2,A3,C2,G3,D3,E1,A2,B2
