@@ -1,0 +1,96 @@
+Topic	Panel Type	Figure	Panel	Subpanel	Filename
+P3	Schematic	1	A	NA	NA
+iCard P3	Schematic	1	B	NA	NA
+iCard P3	graph	1	C	NA	DESeq2NC_FOXJ3MEF2C_moreDrugs_bees3_forfig_orange_noLabs.pdf
+iCard P3	graph	1	D	top	iCard_TFs_nAll_hist_wMarkerLinesegs_wJitter_noLabs_thin_wide.pdf
+iCard P3	graph	1	D	middle	iCard_TFs_nDown_hist_wMarkerLinesegs_wJitter_noLabs_thin_wide.pdf
+iCard P3	graph	1	D	bot	iCard_TFs_nUp_hist_wMarkerLinesegs_wJitter_wLabs_thin_wide.pdf
+iCard P3	graph	1	E	top	iCard_TFs_meanTPM_hist_wMarkerLinesegs_wJitter_noLabs_thin_wide.pdf
+iCard P3	graph	1	E	bot	iCard_TFs_JSiCard_hist_wMarkerLinesegs_wJitter_noLabs_thin_wide.pdf
+iCard P3	graph	1	F	NA	iCard_TFs_nUpVsExp_noLOESS_vertJit_wMarkers.pdf
+iCard P3	graph	1	G	NA	iCard_GTEx_indiv_nDEup_vs_JSspiCard_noSkinAndHeart_flip.pdf
+iPS-CM-KD	graph	2	A	NA	iCard_GTEx_indiv_nDEup_vs_JSspiCard_noSkinAndHeart_flip_KDtargets.pdf
+iPS-CM-KD	Schematic	2	B	NA	NA
+iPS-CM-KD	graph	2	C	NA	heatmap_upRegulated_GO_pval2.pdf
+fibro P3	schematic	3	A	top	NA
+fibro P3	graph	3	A	bottom	fibro_TFs_nAll_nUp_hists_wBarrierLinesegs_wJitter_noLabs_thin.pdf
+fibro P3	graph	3	B	NA	fibro_GTEx_indiv_nDEup_vs_JSsp_GM00942_noSkinHeart_flip_onlyBarriers.pdf
+fibro reprogram	schematic	3	C	NA	NA
+fibro reprogram	images	3	D	left-6	20181108_IAMhiFT4b/*_AlkPhos.tiff
+fibro reprogram	images	3	D	right-4	20181002_IAMhiFT3b/*_AlkPhos.tiff
+fibro reprogram	graph	3	E	left	IAMhiFT4b/colony_dotsNbars_hitsOnly_forfig.pdf
+fibro reprogram	graph	3	E	right	IAMhiFT3b/colony_counts_dotsNbars_127.pdf
+fibro reprogram	images	3	F	1st row	well[3-6]_*_withTra_colony_alone_small.tiff
+fibro reprogram	images	3	F	2nd row	well[3-6]_*_withTra_trans_alone_small.tiff
+fibro reprogram	images	3	F	3rd row	well[3-6]_*_withTra_colony_TMR_small.tiff
+fibro reprogram	images	3	F	4th row	well[3-6]_*_withTra_tmr_red_small.tiff
+fibro reprogram	images	3	F	5th row	well[3-6]_*_withTra_colony_GFP_small.tiff
+fibro reprogram	images	3	F	6th row	well[3-6]_*_withTra_gfp_green_small.tiff
+samples	Schematic	S1	A	NA	NA
+samples	image	S1	B	left	20170827_iCardTest5set100x_94h/F7_still1.tiff
+samples	image	S1	B	right	20170827_iCardTest5set100x_94h/F7_still2.tiff
+samples	image	S1	C	NA	20170817_RNAtagTest5_drugged_96h_tallScan/trans015.tiff
+exploratory	graph	S2	A	NA	fibsAndiCards_TFonly_minTPM5_DE_log2TPMval_unscaled_minRPM20both_cellTypeDrug_rerun.pdf
+exploratory	graph	S2	B	NA	fibsAndiCards_geneFilt_readFilt_manualFilt_PCA_TPMs_byCondition.pdf
+differential expression	graph	S3	A	NA	nDE_bars_perCondition.pdf
+differential expression	graph	S3	B	NA	cumulative_unique_DEgenes_rpm20.pdf
+differential expression	graph	S3	C	NA	cumulative_unique_DEgenes_TFonly_rpm20.pdf
+downsampling	graph	S4	A	NA	iCard_downsampled_frac_nDE_twoSeeds_median_rpmFilters.pdf
+downsampling	graph	S4	B	NA	iCard_ds_rpm20_deltaFrac_vsfracReads_nDE_2seeds.pdf
+downsampling	graph	S4	C	NA	iCard_ds_rpm20_deltaFracPer10pc_vsfracReads_nDE_2seeds.pdf
+otherMeasure	graph	S5	A	NA	iCard_TFs_nAllVsfracUp_noLOESS_vertJit_wMarkers.pdf
+otherMeasure	graph	S5	B	NA	iCard_DE_marker_effectsizes.pdf
+otherMeasure	graph	S5	C	NA	iCard_grey_markers_tfOnly_nUpDown_withMarginals_lfc0_5.pdf
+otherMeasure	graph	S5	D	NA	iCard_DE_allTF_signedEffectSizevsmeanRPM_allConds.pdf
+otherMeasure	graph	S5	E	NA	iCard_DE_allTF_effectSizevsmeanRPM_allConds.pdf
+otherMeasure	graph	S5	F	NA	iCard_TFsMinRPM20_metaanalysis_BHcorrected_FishersMethod_markers_noLabs.pdf
+GO	graph	S6	A	NA	iCard_highUp_allGenes_GOplot.pdf
+GO	graph	S6	B	NA	iCard_lowFreq_allGenes_GOplot.pdf
+GO	graph	S6	C	NA	fibro_highFreqUP_allGenes_GOplot.pdf
+GO	graph	S6	D	NA	fibro_lowFreq_allGenes_GOplot.pdf
+CellNet	graph	S7	A	NA	iCardTest4_normScores_iC4_heart_withFibControls_dotnbar.pdf
+CellNet	graph	S7	B	NA	iCardTest4_normScores_nMarkers_iC4_heart_dots_cor.pdf
+regulon	graph	S8	A	NA	iCard_heartNet_regulon_nDEupfracUpEdgeWt_minRPM20_histograms_noLabs.pdf
+regulon	graph	S8	B	NA	iCard_heartNet_regulon_nDEupfracUpEdgeWt_vsGeneLevelUpreg_scatter.pdf
+regulon	graph	S8	C	NA	fibro_dermNet_regulon_nDEupfracUpEdgeWt_minRPM20_histograms_noLabs.pdf
+regulon	graph	S8	D	NA	fibro_dermNet_regulon_nDEupfracUpEdgeWt_vsGeneLevelUpreg_scatter_minRPM20.pdf
+regulon	graph	S8	E	NA	fibro_nlSkinNet_regulon_nDEupfracUpEdgeWt_vsGeneLevelUpreg_scatter_minRPM20.pdf
+regulon	graph	S8	F	NA	fibro_integNet_regulon_nDEupfracUpEdgeWt_vsGeneLevelUpreg_scatter_minRPM20.pdf
+transdiff	schematic	S9	A	NA	NA
+transdiff	image reconstruction	S9	B	back	scan_thumbnail_GAPDH_empty_7F.pdf
+transdiff	image reconstruction	S9	B	middle	scan_thumbnail_NPPA_empty_7F.pdf
+transdiff	image reconstruction	S9	B	front	scan_thumbnail_TNNT2_empty_7F.pdf
+transdiff	graph	S9	C	NA	scan_counts_scatter_empty_7F.pdf
+transdiff	image	S9	D	top	20190731_IAM942-34-subset/overlays/tmr005.tiff
+transdiff	image	S9	D	middle	20190731_IAM942-34-subset/overlays/alexa005.tiff
+transdiff	image	S9	D	bot	20190731_IAM942-34-subset/overlays/cy005.tiff
+transdiff	graph	S9	E	NA	stacks_counts_scatter_empty_7F.pdf
+transdiff	graph	S9	F	NA	HCF_169-30_scan_counts_empty_7F_scatter.pdf
+iCard specificity	graph	S10	A	NA	iCard_GTEx_indiv_nDEup_vs_JSspHeart_withfibsAndiCard_flip.pdf
+iCard specificity	graph	S10	B	NA	iCard_GTEx_indiv_nDEup_vs_JSspHeart_flip.pdf
+iCard specificity	graph	S10	C	NA	iCard_GTEx_indiv_nDEup_vs_JSspiCard_withSkinAndHeart_flip.pdf
+iCard specificity	graph	S10	D	NA	iCard_GTEx_indiv_nDEup_vs_JSspiCard_noSkinAndHeart_flip.pdf
+iPSCMKDperc	graph	S11	NA	NA	PercentKD_vsSCR.pdf
+fibro P3	graph	S12	A	NA	fibro_TFs_nUpVsExp_noLOESS_vertJit_wTested.pdf
+fibro P3	graph	S12	B	NA	fibro_GTEx_indiv_nDEup_vs_JSsp_GM00942_noSkinHeart_flip.pdf
+fibro specificity	graph	S13	A	NA	fibro_GTEx_indiv_nDEup_vs_JSsp_GM00942_withSkinHeart_flip_onlyBarriers.pdf
+fibro specificity	graph	S13	B	NA	fibro_GTEx_indiv_nDEup_vs_JSsp_GM00942_noSkinHeart_flip_onlyBarriers.pdf
+fibro specificity	graph	S13	C	NA	fibro_GTEx_indiv_nDEup_vs_JSsp_Skin_withFibsAndiCard_flip_onlyBarriers.pdf
+fibro specificity	graph	S13	D	NA	fibro_GTEx_indiv_nDEup_vs_JSsp_Skin_noFibsAndiCard_flip_onlyBarriers.pdf
+fibro reprogram	schematic	S14	A	NA	NA
+fibro reprogram	graph	S14	B	NA	IAMhiFT3b/colony_percKD_dotsNbars_both_bothErr_hitsOnly.pdf
+fibro reprogram	graph	S14	C	NA	IAMhiFT4b/colony_percKD_dotsNbars_both_bothErr_hitsOnly_forfig.pdf
+fibro reprogram	graph	S15	A	NA	IAMhiFT3a/colony_counts_hits_dotsNbars_forSlide.pdf
+fibro reprogram	graph	S15	B	NA	IAMhiFT4a/colony_counts_dotsNbars_forSlide.pdf
+fibro reprogram	graph	S15	C	NA	IAMhiFT3c4c/colony_counts_dotsNbars_forSlide.pdf
+MEFiPSC	schematic	S16	A	NA	NA
+MEFiPSC	schematic	S16	B	NA	NA
+MEFiPSC	graph	S16	C	NA	borkent_tfOnly_responsiveUp_minTPM30.pdf
+MEFiPSC	graph	S16	D	NA	borkent_fracEnriched_perFilter_minTPM30.pdf
+MEFiPSC	graph	S16	E	NA	borkent_foldChangeEnriched_perFilter_minTPM30.pdf
+MEFiPSC	graph	S16	F	NA	borkent_absChangeEnriched_perFilter_minTPM30.pdf
+MEFiPSC	graph	S16	G	NA	fibro_GTEx_indiv_nDEup_vs_JSsp_GM00942_noSkinHeart_flip_onlyBorkent_minTPM30.pdf
+MEFiPSC	graph	S16	H	NA	borkent_tfOnly_responsiveUpVsSpecific_minTPM30.pdf
+transdiff_7UP	graph	S17	A	NA	iCard_grey_markers_tfOnly_nUpDown_w7UP_wMarkers.pdf
+transdiff_7UP	schematic	S17	B	NA	NA
+transdiff_7UP	graph	S17	C	NA	immHCF-30_scan_counts_empty_7F_14_7UP_scatterFull.pdf
