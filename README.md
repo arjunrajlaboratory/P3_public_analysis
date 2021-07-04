@@ -4,7 +4,7 @@ This repo contains scripts needed to produce all graphs and images contained
 in figures for the paper:
 
 Mellis IA, et al. Perturbation panel profiling identifies transcription factors 
-that enhance directed changes of cell identity. bioRxiv (2020); Revised version resubmitted to Cell Systems in April 2021.
+that enhance directed changes of cell identity in vitro. (2021)
 
 For any questions, please contact IAM (ian.mellis at gmail) and the corresponding
 authors for this paper, AR (arjunrajlab at gmail) and RJ (jainr at pennmedicine.upenn.edu)
